@@ -1,5 +1,5 @@
 (defproject tech.ardour/blare "0.0.1"
-  :description "Ardour Tech PubSub and EventBus Utilities"
+  :description "Ardour Tech PubSub and EventBus Library"
   :url "https://github.com/ArdourTech/blare"
   :license {:name         "Eclipse Public License - v 1.0"
             :url          "http://www.eclipse.org/legal/epl-v10.html"
